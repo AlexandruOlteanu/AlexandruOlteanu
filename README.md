@@ -36,7 +36,7 @@
 <img align="left" alt="Java" width="40px" src="./img/java-logo-1.png" />
 <img align="left" alt="C++" width="26px" src="./img/C++Logo.png" style="padding-right:10px;" />
 <img align="left" alt="Assembly" width="50px" src="./img/Assembly.png" style="padding-right:10px;" />
-<img align="left" alt="Python" width="50px" src="./img/Python.png" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="./img/Python.png" style="padding-right:10px;" />
 
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
