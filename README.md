@@ -73,6 +73,6 @@
   
   #Chess
   
-  <img src="https://github.com/ClaudiuChelcea/ClaudiuChelcea/blob/main/assets/NeverGiveUp.gif" width="100%" height="280">
-  Let's play some games, add me here : [<img align="left" alt="Chess.com" width="26px" src="./img/ChessLogo.png" style="padding-right:10px;" />](https://www.chess.com/member/alexandruolteanu2001)
+  <img src="./img/Chess.gif" width="50%" height="120">
+  Let's play some games, add me here : [<img align="left" alt="Chess.com" width="100px" src="./img/ChessLogo.png" style="padding-right:10px;" />](https://www.chess.com/member/alexandruolteanu2001)
 
