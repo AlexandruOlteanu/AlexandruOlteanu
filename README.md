@@ -77,5 +77,6 @@
   
   <img src="./img/Chess.gif" width="50%" height="300">
   <br />
-  Let's play some games, add me [here](https://www.chess.com/member/alexandruolteanu2001)
+  Let's play some games, add me 
+  [here](https://www.chess.com/member/alexandruolteanu2001)
 
