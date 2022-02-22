@@ -65,7 +65,7 @@
   
   :zap: Coding Stats
   <br />
-  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandruOlteanu&langs_count=10&theme=tokyonight)]()
+  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandruOlteanu&langs_count=7&theme=tokyonight)]()
   
   :zap: GitHub Stats
 
