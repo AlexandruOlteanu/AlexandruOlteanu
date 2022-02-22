@@ -18,8 +18,8 @@
 [![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
 -->
-[![website](./img/FacebookLight.png)](https://www.facebook.com/alexolteanu2001/#gh-light-mode-only)
-[![website](./img/FacebookDark.png)](https://www.facebook.com/alexolteanu2001/#gh-dark-mode-only)
+[![website](./img/FbLight.png)](https://www.facebook.com/alexolteanu2001/#gh-light-mode-only)
+[![website](./img/FbDark.png)](https://www.facebook.com/alexolteanu2001/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/AlexOlteanu2001#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/AlexOlteanu2001#gh-dark-mode-only)
