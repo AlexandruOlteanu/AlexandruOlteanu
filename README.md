@@ -1,7 +1,7 @@
 # Hi, I'm Alexandru !
 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Computer Science Student, Freelancer and Teacher!
 
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
