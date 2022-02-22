@@ -18,7 +18,7 @@
 [![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
 -->
-[![website](./img/FacebookD.png)](https://www.facebook.com/alexolteanu2001/#gh-light-mode-only)
+[![website](./img/FacebookL.png)](https://www.facebook.com/alexolteanu2001/#gh-light-mode-only)
 [![website](./img/FacebookD.png)](https://www.facebook.com/alexolteanu2001/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/AlexOlteanu2001#gh-light-mode-only)
