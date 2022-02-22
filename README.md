@@ -9,8 +9,10 @@
 - ⚡ Interests: I love playing chess, football, Football tennis | Passionate about Crypto and Investments
 ### Connect with me:
 
-// [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+<!---
+[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+-->
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
