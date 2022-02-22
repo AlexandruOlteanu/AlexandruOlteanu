@@ -4,9 +4,9 @@
 ## I'm a Computer Science Student, Freelancer and Teacher!
 
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
+- 🌱 I’m currently learning React, Angular, Racket and Haskell
+- 👯 I’m looking for colaboration and technology development oportunities!
+- 🥅 2022 Goals: Become Candidate Master on Codforces and make my Startup known to the world!
 - ⚡ Fun fact: I love to draw and play guitar / drums
 - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
 
