@@ -5,7 +5,7 @@
 
 - 📚 I’m currently learning React, Angular, Racket and Haskell
 - 🤝 I’m looking for colaboration and technology development oportunities!
-- 🥅 2022 Goals: Become Candidate Master on Codforces and make my Startup known to the world!
+- 🥅 2022 Goals: Become Candidate Master on Codeforces and make my Startup known to the world!
 - ⚡ Interests: I love playing chess, football, Football tennis | Passionate about Crypto and Investments
 ### Connect with me:
 
