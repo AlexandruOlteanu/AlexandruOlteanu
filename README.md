@@ -1,12 +1,12 @@
 # Hi, I'm Alexandru !
 
 
-## I'm a Computer Science Student, Freelancer and Teacher!
+## I'm a Software Enginner in Java, Freelancer and Teacher!
 
-- 📚 I’m currently learning React, Angular, Racket and Haskell
+- 📚 I’m currently learning React and Advanced data structures
 - 🤝 I’m looking for colaboration and technology development oportunities!
-- 🥅 2022 Goals: Become Candidate Master on Codeforces and make my Startup known to the world!
-- ⚡ Interests: I love playing chess, football, Football tennis | Passionate about Crypto and Investments
+- 🥅 2025 Goals: Become Candidate Master on Codeforces and make my Startup known to the world!
+- ⚡ Interests: I love playing chess, football, Football tennis | Passionate about Investments
 ### Connect with me:
 
 <!---
