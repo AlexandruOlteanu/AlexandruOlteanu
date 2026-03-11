@@ -5,7 +5,7 @@
 
 - 📚 I’m currently learning React and Advanced data structures
 - 🤝 I’m looking for colaboration and technology development oportunities!
-- 🥅 2025 Goals: Become Candidate Master on Codeforces and make my Startup known to the world!
+- 🥅 2026 Goals: Become Candidate Master on Codeforces and make my Startup known to the world!
 - ⚡ Interests: I love playing chess, football, Football tennis | Passionate about Investments
 ### Connect with me:
 
